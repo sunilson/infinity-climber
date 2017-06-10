@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A5D45C66-9E28-007B-0728-6A2DFD6FDD76}") = "Infinity Climber", "Assembly-CSharp-firstpass.csproj", "{EB496E69-C816-FC49-D411-2F7425B2B7D3}"
+EndProject
+Project("{A5D45C66-9E28-007B-0728-6A2DFD6FDD76}") = "Infinity Climber", "Assembly-CSharp.csproj", "{C7610B2C-2B65-1274-335D-88F6D4C79727}"
+EndProject
+Project("{A5D45C66-9E28-007B-0728-6A2DFD6FDD76}") = "Infinity Climber", "Assembly-CSharp-Editor.csproj", "{416BA8DE-1CA1-798C-52BF-F7A9681A8418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB496E69-C816-FC49-D411-2F7425B2B7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB496E69-C816-FC49-D411-2F7425B2B7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB496E69-C816-FC49-D411-2F7425B2B7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB496E69-C816-FC49-D411-2F7425B2B7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7610B2C-2B65-1274-335D-88F6D4C79727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7610B2C-2B65-1274-335D-88F6D4C79727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7610B2C-2B65-1274-335D-88F6D4C79727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7610B2C-2B65-1274-335D-88F6D4C79727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416BA8DE-1CA1-798C-52BF-F7A9681A8418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416BA8DE-1CA1-798C-52BF-F7A9681A8418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416BA8DE-1CA1-798C-52BF-F7A9681A8418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416BA8DE-1CA1-798C-52BF-F7A9681A8418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
